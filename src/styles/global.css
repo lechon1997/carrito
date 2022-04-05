@@ -1,0 +1,22 @@
+.pantalla-principal {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+.width-18rem {
+  width: 18rem;
+}
+
+.max-width-20 {
+  max-width: 20%;
+}
+
+.estilos-carrito {
+  height: 85%;
+}
+
+.estilos-btn-finalizar-compra {
+  width: 100%;
+  height: 15%;
+}
